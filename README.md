@@ -1,2 +1,2 @@
-# elcurtis0.github.io
+# Welcome
  Privacy Policy
