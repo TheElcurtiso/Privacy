@@ -1,8 +1,6 @@
 <html>
 <body>
-    <h1>Privacy Policy for Shape Shifter:</h1>
-	Shape Shifter receives or collects information when we provide our services, including when you install, access, or use our services.
-	Our Privacy Policy applies to all of the services offered by Shape Shifter.
+	All of our applications receive or collect information when we provide our services, including when you install, access, or use our services.
 	<h2>Information We Collect:</h2>
 	<ul>
 	<li>Unity Analytics collects gameplay and device information from players who play games made with Unity. The only user-level personal data collected is device ID and IP address. 
